@@ -1,19 +1,7 @@
 
+<img src="https://raw.githubusercontent.com/EmuZONE/DayZ-Standalone-Server/master/Extras/Maps/Images/Balota_airstrip.jpg"/></img>
 
-DAYZ STANDALONE WIKI
 
-DAYZ STANDALONE WIKI
-Balota
-
-Construction - Template Icon.png
-
-This article is currently under construction. It may contain little or inaccurate information.
-Please expand or correct the article as well as you can.	
-Construction - Template Icon.png
-Balota
-Balota airstrip.jpg
-
-Balota and its airstrip as seen in Arma 2.
 Number of churches:	0
 Hospitals:	0
 Water pumps:	1
