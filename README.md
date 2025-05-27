@@ -1,1 +1,1 @@
-# DayZ-Standalone-Server
+# The Insane History of DayZ Standalone
